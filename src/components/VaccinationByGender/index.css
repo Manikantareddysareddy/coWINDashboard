@@ -1,0 +1,18 @@
+.gender-container {
+  width: 70vw;
+  background-color: #1c1c2b;
+}
+.gender-heading {
+  color: #94a3b8;
+  font-family: 'Roboto';
+  padding: 20px;
+  font-weight: normal;
+  font-size: 25px;
+}
+.gender-main-container {
+  display: flex;
+  border-radius: 10px;
+  flex-direction: column;
+  margin-top: 50px;
+  align-items: center;
+}

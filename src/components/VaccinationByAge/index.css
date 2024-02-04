@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.age-container {
+  width: 70vw;
+
+  background-color: #1c1c2b;
+}
+.age-heading {
+  color: #94a3b8;
+  font-family: 'Roboto';
+  padding: 20px;
+
+  font-weight: normal;
+  font-size: 25px;
+}
+.age-main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 40px;
+  padding-bottom: 50px;
+}
